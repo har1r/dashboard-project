@@ -1,5 +1,5 @@
 export default function NopelPage() {
     return (
-        <h1>Halaman Nopel</h1>
+        <div>Nopel Page</div>
     )
 }
